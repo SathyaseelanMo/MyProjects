@@ -1,0 +1,17 @@
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.Form1.resources
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.csproj.GenerateResource.cache
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\bin\Debug\net8.0-windows\FlappyBird.exe
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\bin\Debug\net8.0-windows\FlappyBird.deps.json
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\bin\Debug\net8.0-windows\FlappyBird.runtimeconfig.json
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\bin\Debug\net8.0-windows\FlappyBird.dll
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\bin\Debug\net8.0-windows\FlappyBird.pdb
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.Properties.Resources.resources
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.AssemblyInfoInputs.cache
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.AssemblyInfo.cs
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.dll
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\refint\FlappyBird.dll
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.pdb
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\FlappyBird.genruntimeconfig.cache
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net8.0-windows\ref\FlappyBird.dll

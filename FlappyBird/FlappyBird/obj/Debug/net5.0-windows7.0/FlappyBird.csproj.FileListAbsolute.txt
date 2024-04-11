@@ -1,0 +1,7 @@
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.Form1.resources
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.Properties.Resources.resources
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.csproj.GenerateResource.cache
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.AssemblyInfoInputs.cache
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.AssemblyInfo.cs
+C:\Users\VRL_Ryzen\source\repos\FlappyBird\FlappyBird\obj\Debug\net5.0-windows7.0\FlappyBird.csproj.CoreCompileInputs.cache
