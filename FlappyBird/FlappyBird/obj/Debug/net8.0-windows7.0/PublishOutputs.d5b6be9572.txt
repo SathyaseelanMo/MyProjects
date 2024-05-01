@@ -1,0 +1,5 @@
+D:\_1\FlappyBird.exe
+D:\_1\FlappyBird.dll
+D:\_1\FlappyBird.deps.json
+D:\_1\FlappyBird.runtimeconfig.json
+D:\_1\FlappyBird.pdb
